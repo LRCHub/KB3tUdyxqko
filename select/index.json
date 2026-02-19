@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "押して",
+  "base_artist": "とた",
+  "createdAt": "2026-02-19T02:07:44.061133Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "押して",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_押して_とた.txt"
+    }
+  ]
+}
